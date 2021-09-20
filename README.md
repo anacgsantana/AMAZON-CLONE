@@ -1,5 +1,7 @@
 Project available at: https://jsreact-amazon-clone.netlify.app
-For this project I used react and JS. 
+
+
+For this project I used React and JS. 
 
 # Getting Started with Create React App
 
